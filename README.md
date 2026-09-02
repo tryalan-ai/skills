@@ -102,6 +102,13 @@ Stage all changes and commit with well-structured commit messages following conv
 
 **Usage:** Invoke with `/commit-all` to stage and commit everything.
 
+### mobile-test
+Test Android and iOS apps end to end across critical flows, permissions, lifecycle transitions, network conditions, accessibility, logs, and visual evidence.
+
+**Usage:** `/mobile-test [app-or-feature, build-path-or-repo, and critical-flows]`
+
+**Example:** `/mobile-test "React Native offline sync — test Android and iOS; create a note offline, reconnect, and verify one synced note"`
+
 ### test-feature
 Interactively test a completed feature using browser automation. Navigates the live app, exercises all key flows, captures a GIF walkthrough, and produces a visual verification report.
 
