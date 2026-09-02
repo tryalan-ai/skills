@@ -15,6 +15,7 @@
     { "name": "commit-all",      "source": "./commit-all" },
     { "name": "debug-prod",      "source": "./debug-prod" },
     { "name": "deploy",          "source": "./deploy" },
+    { "name": "mobile-test",     "source": "./mobile-test" },
     { "name": "review-pr",       "source": "./review-pr" },
     { "name": "signoz-health-check", "source": "./signoz-health-check" },
     { "name": "test-feature",    "source": "./test-feature" },
